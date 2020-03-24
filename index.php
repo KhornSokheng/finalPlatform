@@ -5,7 +5,7 @@
 <?php echo "รหัสนิสิต-62310045"; ?><br>
 <?php echo "ชื่อ-สกุล นาย KHORN SOKHENG"; ?><br>
 <iframe width="500" height="500"
-src="https://youtu.be/fRhiNdpSNcc">
+src="https://youtube/fRhiNdpSNcc">
 </iframe>
 </BODY>
 </HTML>
